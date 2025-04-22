@@ -1,0 +1,64 @@
+# #TExt
+# text = Text(height = 5, width = 30)
+# # Puts cursor in text Box
+# text.focus()
+# text.insert(END,"Example of multi line text entry")
+# print(text.get("1.0",END))
+# text.pack()
+#
+# #Spinbox
+#
+# def spinbox_used():
+#     #gets the current value in spinbox
+#     print(spinbox.get())
+# spinbox = Spinbox(from_=0,to =10,width =5,command = spinbox_used)
+# spinbox.pack()
+#
+# #Scale
+# #called with current scale value
+# def scale_used(value):
+#     print(value)
+# scale = Scale(from_= 0, to = 100,command = scale_used)
+# scale.pack()
+#
+# #Checked button
+# def checkbutton_state():
+#     # print1 if on button checked,else 0
+#     print(checked_state.get())
+# checked_state = IntVar()
+# checkbutton = Checkbutton(text = "Is ON?", variable= checked_state,command = checkbutton_state())
+# checked_state.get()
+# checkbutton.pack()
+
+def button_clicked():
+    data_1 = input.get()
+    my_label.config(text=data_1)
+
+
+window = Tk()
+window.title("My first GUI")
+window.minsize(width=500,height =300)
+
+
+#Label
+my_label = Label(text ="New Text", font = ("Arial",24,"bold"))
+my_label.grid(column = 0, row = 0)# plac this on screen
+# my_label["text"] ="NewButton"
+# my_label.config(text="NewTxt")
+
+
+
+button = Button(text = "Click ME", command = button_clicked)
+button.grid(column=1,row = 2)
+
+new_button = Button(text = "Don't Click", command = button_clicked)
+new_button.grid(column =2,row = 0)
+# Entry
+# input = Entry(width = 10)
+# input.get()
+# input.grid(column=)
+
+entry = Entry(width = 30)
+entry.insert(END,string = "Some text to begin with")
+print(entry.get())
+entry.grid(column=3, row =3)
