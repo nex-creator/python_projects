@@ -155,7 +155,7 @@ python main.py
 
 ## 👩‍💼 Author
 
-Created by **[Your Name Here]**  
+Created by Neha Sharma    
 A beginner-friendly project to practice GUI development and file handling in Python.
 
 ---
