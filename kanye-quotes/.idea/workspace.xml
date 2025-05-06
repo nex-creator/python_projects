@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90e712d0-f566-4be5-bee5-8b25e0d54372" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../day-33/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/100+Days+of+Python+Check+Off+Posters.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/Coding+Notebook+Sheets+to+Print.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/Course+Pledge+-+App+Brewery+100+Days+of+Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/Mail+Merge+Project+Start.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/NATO-alphabet-start.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/Python+Syntax+Cheat+Sheet+Booklet+v2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/Solution+-+turtle-crossing-final.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/Syllabus+for+100+Days+of+Python.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/Wallpapers.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/day-25-us-states-game-start.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/flash-card-project-start.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/oop-coffee-machine-start.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/password-manager-start.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/pomodoro-start.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/quiz-game-start.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100DaysOfPython/turtle-crossing-start.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nex-creator"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nex-creator/python_projects.git",
+    "accountId": "64bcd999-7af2-41c5-a3d1-f5496bf00240"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2wMbCS12PdvmIXxXLQiM2DVLfCP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/nehaworkdir/PythonTest/iss-overhead"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90e712d0-f566-4be5-bee5-8b25e0d54372" name="Changes" comment="" />
+      <created>1745854262223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745854262223</updated>
+    </task>
+    <servers />
+  </component>
+</project>
